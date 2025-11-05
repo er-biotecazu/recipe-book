@@ -16,6 +16,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 :hidden:
 
 mains/vegetarian-lasagna
+mains/lentejas_chorizo
 pasta/boscaiola
 pasta/dumplings
 ```
